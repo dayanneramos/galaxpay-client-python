@@ -7,8 +7,8 @@ from galaxpay.credit_card import CreditCard
 
 payment_data = {
     "Auth": {
-        "galaxId": "5473",
-        "galaxHash": "83Mw5u8988Qj6fZqS4Z8K7LzOo1j28S706R0BeFe"
+        "galaxId": "[SEU_ID]",
+        "galaxHash": "[SEU_HASH]"
     },
     "Request": {
         "typeBill": "sale",
